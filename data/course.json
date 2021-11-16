@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theater"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5c890c9d-4ccb-c176-570d-921bde355cc7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Foundations of Theater Practice",
+  "course_description": "The goals of this class are two-fold: the first is to experience the creative processes and storytelling behind several of theater's arts and to acquire the analytical skills necessary in assessing the meaning they transmit when they come together in production. Secondly, we will introduce you to these languages in a creative way by giving you hands-on experience in each. To that end, several Visiting Artists and MIT faculty in Theater Arts will guest lecture, lead workshops, and give you practical instruction in their individual art forms.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.611",
+  "learning_resource_types": [
+    "Image Gallery",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
